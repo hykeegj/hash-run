@@ -20,3 +20,7 @@
 ## 라이선스
 
 - [MIT LICENSE](LICENSE)
+
+## 개발자 이메일
+
+- hykeegj@gmail.com
