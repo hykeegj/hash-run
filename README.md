@@ -15,7 +15,7 @@
 
 ## 프로그램 버전
 
-- 1.0.0
+- [1.0.0](https://github.com/hykeegj/hash-checker/releases/tag/1.0.0)
 
 ## 라이선스
 
