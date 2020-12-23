@@ -1,5 +1,7 @@
 # 해시런
 
+[![GitHub](https://img.shields.io/github/license/hykeegj/hash-run)](LICENSE) [![GitHub release (latest by date)](https://img.shields.io/github/v/release/hykeegj/hash-run)](https://github.com/hykeegj/hash-checker/releases/tag/1.0.0)
+
 ## 실행 화면
 
 ![preview](preview.png)
